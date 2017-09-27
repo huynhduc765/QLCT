@@ -1,0 +1,11 @@
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Công-Nghệ-Phần-Mềm\Đồ-Án-YoLos'-Team-Quản Lý-Chi-Tiêu\GiaoDienChinh\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMenu.resources
